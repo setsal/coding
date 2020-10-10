@@ -14,7 +14,7 @@ public:
         reNums.assign(r,col);
 
         for ( int i=0; i<m*n; i++ ) {
-            reNums[i/c][i%r] = nums[i/m][i%n];
+            reNums[i/c][i%c] = nums[i/m][i%m];
         }
 
         return reNums;

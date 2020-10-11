@@ -5,8 +5,9 @@ Leetcode practice
 ### Easy
 
 ```
-- [21/30] Array
+- [23/30] Array
 - [1/30] Linked List
 - [1/30] Math
+- [1/30] String
 - [?] Other....
 ```

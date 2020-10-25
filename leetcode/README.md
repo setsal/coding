@@ -6,7 +6,7 @@ Leetcode practice
 
 ```
 - [30/30] Array
-- [3/30] Linked List
+- [4/30] Linked List
 - [1/30] Math
 - [1/30] String
 - [?] Other....

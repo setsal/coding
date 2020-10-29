@@ -17,3 +17,6 @@ yarn-error.log
 peda*
 main
 a.out
+
+# test
+test.cpp

@@ -4,12 +4,12 @@ public:
         unordered_map<char, int> m;
         
         // count each alphbet in magazine
-        for (char c : magazine) {
+        for ( char c : magazine ) {
             m[c]++;
         }
 
         // check 
-        for (char c : ransomNote) {
+        for ( char c : ransomNote ) {
             if ( m[c] == 0 ) {
                 return false;
             }

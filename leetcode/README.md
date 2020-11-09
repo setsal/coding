@@ -8,6 +8,6 @@ Leetcode practice
 - [30/30] Array
 - [10/30] Linked List
 - [1/30] Math
-- [6/30] String
+- [9/30] String
 - [?] Other....
 ```

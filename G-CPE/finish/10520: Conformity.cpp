@@ -1,3 +1,10 @@
+/*
+	Problem: 10520: Conformity
+	subs: 1516, ACs: 416, AcceptRate: 27.44, onsite: 32, access: 8777
+
+	Link: https://gpe3.acm-icpc.tw/showproblemtab.php?probid=10520&cid=5
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

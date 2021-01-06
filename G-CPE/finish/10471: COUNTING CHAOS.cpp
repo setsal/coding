@@ -1,3 +1,10 @@
+/*
+	Problem: 10471: COUNTING CHAOS
+	subs: 463, ACs: 112, AcceptRate: 24.19, onsite: 10, access: 2119
+
+	Link: https://gpe3.acm-icpc.tw/showproblemtab.php?probid=10471&cid=5
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

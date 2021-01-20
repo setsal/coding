@@ -17,6 +17,7 @@ yarn-error.log
 peda*
 main
 a.out
+.gdb_history
 
 # test
 test*.cpp

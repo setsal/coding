@@ -18,6 +18,7 @@ peda*
 main
 a.out
 .gdb_history
+*.swp
 
 # test
 test*.cpp
